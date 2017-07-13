@@ -1,0 +1,145 @@
+1 
+ 
+ 
+Department of Computer Science and Engineering 
+Faculty of Engineering, University of Moratuwa 
+CS 2052 Computer Architecture 
+2015 Batch Semester 2 (Sep – Dec 2016) 
+ 
+Class LMS http://online.mrt.ac.lk/course/view.php?id=5941  
+Discussion 
+Forum 
+https://www.yammer.com/uomcse.lk/#/threads/ 
+inGroup?type=in_group&feedId=6264532 (request to join to Group) 
+Schedule Lectures (14 sessions): 
+ Tuesday 1:15pm - 3:15pm at CSE Seminar Room 
+Labs (11 labs): 
+ Thursdays 1:15pm - 4:15pm at 2nd Year and Advanced Labs 
+Instructors Dr. Dilum Bandara, dilumb@cse.mrt.ac.lk, 011 265 0152 
+Prerequisite(s) CS1032 
+Text  M. Morris Mano, “Computer System Architecture”, 3rd Edition, Pearson Education, 
+Delhi, India. 
+Supplementary readings: 
+ John L. Hennessy and David Patterson, “Computer Organization and Design: The 
+Hardware/Software Interface”, 4th or 5th Edition, Morgan Kaufmann. 
+ Douglas E. Comer, “Essentials of Computer Architecture”, Pearson Education. 
+ Noam Nisan and Shimon Schocken, “The Elements of Computing Systems: 
+Building a Modern Computer from First Principles”, The MIT Press 
+o Chapters can be downloaded from http://www.nand2tetris.org/course.php 
+Assessment Distribution of marks is as follows: 
+ Labs (10)    26% (3 × 6 + 8) 
+ Homework (2)     6% 
+ Field Visit      8% 
+ Quizzes (2)    10% 
+ Final Exam (2 hour, closed book) 50% 
+Course 
+Objectives 
+To provide a broader understanding of architectural elements of a computer, how they 
+work together, and fundamental building blocks. At the end of the module, you will be 
+able to: 
+ develop a simple microprocessor with a limited instruction set 
+ list down the components of a computer and their functionalities 
+ describe how a program is executed in a computer 
+ sketch designs of controllers for various components in a computer system 
+ evaluate the performance enhancement mechanisms in computer systems 
+Required readings, labs, discussions, and field visit will enhance both the analytical and 
+soft skills. 
+2 
+ 
+Syllabus We will start with a high-level design of a computer system and how various 
+components work together. As we continue our exploration, we will gradually dig into 
+specific sub-components of the system. The goal for the class is to be broad rather than 
+deep. Our plan is to touch upon the following areas: 
+1. Introduction to computer architecture [1 class] 
+ Design goals, high-level design, architectural differences, programming levels 
+2. Digital logic [2 classes] 
+ Logic gates, Boolean algebra, k-maps, half and full adders, encoders, 
+multiplexers  
+3. Sequential logic [2 classes] 
+ Flip-flops, registers, counters, state diagrams, clocks 
+4. Instruction set [3 classes] 
+ Micro operations, Assembly instructions, Harvard vs. Von Neumann 
+architecture, RISC/CISC, addressing modes  
+5. Data Representation [1 class] 
+ Number systems, character representations 
+6. Busses [0.5 class] 
+ Busses, tri-state bus 
+7. Memory [1.5 classes] 
+ Memory hierarchy, types of memory, addressing modes, stack 
+8. Input/Output [1 class] 
+ Devices, text representation, pooling vs. interrupts, DMA 
+9. Modern computing systems [2 classes] 
+ Caching, pipelining, Amdahl’s law, hyper threading, multi-core, many-core 
+Labs Lab 1 Introduction to Development Environment 
+Lab 2 Behavioral Simulation 
+Lab 3 Ripple Carry Adder 
+Lab 4 Combinational Circuits 
+Lab 5 7-Segment Display 
+Lab 6 Arithmetic Unit 
+Lab 7 Counter With External Input 
+Lab 8 Assembly Programming 
+Lab 9-10 Microprocessor Design Competition (3 students per group) 
+Workload 
+Expectations 
+There is a normative workload expected of you while following this module. This is a 3-
+credit module. For the average student, this means 135 study hours over the semester. 
+The following table provides a rough breakdown of how these hours might be spent 
+over the whole semester – but this is only for guidance: 
+ 
+Classes 
+15 weeks × 2 hour lectures 30 
+Independent work 
+Labs 1 - 8 (8 Labs × 3 hour lab session) 24 
+Homework (2) 6 
+Preparatory work – e.g., set reading, contributing to LMS discussions, and 
+preparation for lectures. 14 weeks × 4 hours a week 
+56 
+Group work 
+Lab 9-10 (2 labs × 4 hour lab session) 8 
+Field visit 9 
+Assessment 
+Exams 2 
+TOTAL 135 
+ 
+3 
+ 
+Class policies  Topics to be discussed in each class will be posted on Moodle, along with relevant 
+readings for each topic. You are expected to keep up with the readings as we go, as 
+they will help provide the foundation for the homework, quizzes, and exam. 
+Impromptu quizzes will be based on these assigned readings. 
+ All students are expected to actively participate in class, Moodle, and Yammer 
+activities. Poor participation and/or poor performance in assigned course work can 
+be grounds for failure in the course. 
+ Discussing and exchanging ideas through study groups are encouraged, as this 
+usually leads to a better understanding. As part of the discussions, you may share 
+ideas and thoughts, discuss the meaning of homework and lab questions, or possible 
+ways of approaching a solution. However, you must write homework and lab 
+solutions strictly. If one of your solutions is based on a key idea of someone else, 
+you must acknowledge this in your homework, to avoid the perception of cheating. 
+This form of collaboration is not an opportunity to copy answers from others.  
+ Group assignments are given to encourage teamwork and discussion/toleration of 
+alternative ideas/views; hence, they need to be done as a group. A penalty will be 
+enforced for doing group assignments individually. 
+ Plagiarism, copying another person’s work, letting another person copy your work, 
+giving or receiving aid during any test or examination is all strictly not allowed. Any 
+student caught in any of these will receive a failing grade regardless of marks earned 
+on other assessed work. 
+ Proper netiquette should be observed in using the Moodle and Yammer. 
+ Each assigned work will have either a deadline for submission or a specific date for 
+performance. For each day delayed beyond a deadline, 10% of marks will be 
+deducted. Not performing (e.g., not doing a presentation) on an assigned date will 
+result in 0 marks unless there is a valid reason and another student/group is arranged 
+as a replacement. Details of submission will be given with each assignment. 
+ The dictionary meaning of deadline is “the latest time or date by which something 
+should be completed”. Thus, as you may already experience during your internship, 
+deadlines are supposed to be met. 
+ All quizzes and final exam will be closed book and closed note exams. The final 
+exam will be comprehensive, covering material from the entire course including labs, 
+homework, and filed visit. 
+ You may not use cell phones, mp3 players, etc., during class. All laptops and mobile 
+phones must be closed and all computer screens of the computers in the classroom 
+must be turned off unless you use it to take notes, take photos of slides, or search 
+for additional contents relevant to the ongoing class discussion. The reason is to 
+prevent distractions to other students, and to prevent the temptation to check e-mail, 
+Facebook, etc. 
+ 
